@@ -21,7 +21,7 @@ Students will download a .csv with 450,000+ rows with the following columns. Usi
 | COUNTYFP | US Census county code |
 | COUNTYNS | US Census county code |
 | GEOID | US Census geoid |
-| KOPPEN | Köppen-Geiger climate classification |
+| KOPPEN | Köppen-Geiger climate classification ([Legend](http://koeppen-geiger.vu-wien.ac.at/data/legend.txt)) |
 
 ### Load data into Google Colab from local file
 This code snippet will prompt the user to upload a file in Google Colab.
